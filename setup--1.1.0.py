@@ -19,7 +19,7 @@ multicorn_utils_module = Extension('multicorn._utils',
 setup(
  name='multicorn',
  version='1.1.0-dev',
- author='Kozea',
+ author='Andrew',
  license='Postgresql',
  package_dir={'': 'python'},
  packages=['multicorn', 'multicorn.fsfdw'],
